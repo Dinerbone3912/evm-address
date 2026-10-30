@@ -1,0 +1,11 @@
+{
+  "name": "@glider/evm-address",
+  "version": "1.0.0",
+  "description": "EVM address utilities: EIP-55 checksum, validation, zero-address checks, unit conversion. Zero dependencies, handles both Keccak and correct casing.",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["ethereum","evm","eip55","checksum","address","web3"],
+  "license": "MIT"
+}
